@@ -1,4 +1,5 @@
-from us_visa.logger import logging
+from us_visa.pipline.training_pipeline import TrainPipeline
 
+obj=TrainPipeline()
 
-logging.info('This is a test message')
+obj.run_pipeline()
