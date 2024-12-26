@@ -1,5 +1,5 @@
 # us_visa
-This is a rository for me to learn mlops using aws 
+This is a repository for me to learn mlops using aws 
 
 # write a read me file for it 
 
