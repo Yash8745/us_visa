@@ -1,6 +1,4 @@
-Here's a sample `README.md` file for your project:  
 
-```markdown
 # US Visa Machine Learning Pipeline with AWS
 
 This repository contains an end-to-end machine learning pipeline for processing and analyzing US Visa data. The project utilizes AWS services for scalability, Docker for containerization, and Python for implementing the ML pipeline.  
